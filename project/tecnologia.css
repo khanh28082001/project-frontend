@@ -1,0 +1,99 @@
+
+.container-logia{
+	padding: 80px 842px 88px 220px;
+	background: #111111;;
+	position: relative;
+}
+.title-logia{
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+letter-spacing: 0.015em;
+text-transform: uppercase;
+
+/* c5 */
+
+color: #B2B2B2;
+
+}
+.container-logia h2{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 64px;
+	line-height: 72px;
+	color: #FFFFFF;
+	margin-top: 20px;
+}
+.container-logia p{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 36px;
+	color: #B2B2B2;
+	margin-top: 32px;
+}
+.motor h3{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 36px;
+/* identical to box height, or 150% */
+
+
+/* p1 */
+
+color: #FFBB00;
+margin-top: 20px;
+}
+.motor{
+	display: flex;
+	flex-direction: column;
+}
+.motor::after{
+	content: "";
+	width: 275px;
+	height: 4px;
+	background: #FFBB00;
+}
+.item-logia h3{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+margin-top: 9px;
+
+color: #FFFFFF;
+}
+.item-logia p{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #B2B2B2;
+	margin: 0;
+	margin-top: 8px;
+
+}
+.card-logia{
+	display: flex;
+	gap: 0 40px;
+	margin-top: 81px;
+}
+.diferencial{
+	position: absolute;
+	right: 80px;
+	top: -70px;
+width: 700px;
+height: 1120px;
+
+}

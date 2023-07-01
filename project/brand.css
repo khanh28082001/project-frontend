@@ -1,0 +1,48 @@
+.container-brand{
+	padding: 200px 184px 165px 175px;
+	position: relative;
+}
+.container-brand h2{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 64px;
+	line-height: 72px;
+	color: #111111;
+	margin-left: 45px;
+}
+.list-brand{
+	margin-top: 105px;
+	display: flex;
+    flex-direction: column;
+    gap: 94px 0;
+}
+.brand{
+	display: flex;
+}
+.brand-1{
+	margin-left: 33px;
+}
+.brand-1 img:first-child{
+	margin-right: 202px;
+}
+.brand-1 img:nth-child(2){
+	margin-right: 216px;
+}
+.brand-1 img:nth-child(3){
+	margin-right: 185px;
+}
+.brand-2 img:first-child{
+	margin-right: 160px;
+}
+.brand-2 img:nth-child(2){
+	margin-right: 179px;
+}
+.brand-2 img:nth-child(3){
+	margin-right: 135px;
+}
+.border{
+	position: absolute;
+	top: 348px;
+    left: 90px;
+}
